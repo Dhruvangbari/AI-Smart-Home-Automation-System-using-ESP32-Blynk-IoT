@@ -1,0 +1,3 @@
+Widgets:
+V0 temp, V1 humidity, V2 air, V3 scene label,
+V10 auto switch, V20 segmented switch for scenes
