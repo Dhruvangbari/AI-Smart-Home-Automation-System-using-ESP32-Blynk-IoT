@@ -4,7 +4,6 @@
 #include <BlynkSimpleEsp32.h>
 #include <DHT.h>
 
-
 #include "config.h"
 #include "sensor_logic.h"
 #include "scene_manager.h"
