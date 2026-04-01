@@ -7,6 +7,7 @@ This project implements an **AI-inspired Smart Home Automation System** using an
 
 Unlike basic automation projects, this system introduces **decision-based automation logic** and **scene management**, allowing the home to adapt automatically to changing environmental conditions.
 
+
 Smart sensing. Intelligent decisions. Automated home control.
 
 ---
